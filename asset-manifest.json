@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/JuniorTestTask-build/static/css/main.d4a3d673.css",
-    "main.js": "/JuniorTestTask-build/static/js/main.9e9e4a13.js",
+    "main.js": "/JuniorTestTask-build/static/js/main.bbe12c59.js",
     "static/media/usyk-bg.jpg": "/JuniorTestTask-build/static/media/usyk-bg.3b6c3e373eaeb0d7e56e.jpg",
     "static/media/01.jpg": "/JuniorTestTask-build/static/media/01.c91eef12df58332f963c.jpg",
     "static/media/TTSevers-Regular.woff": "/JuniorTestTask-build/static/media/TTSevers-Regular.ab3f12a497a801cc5135.woff",
@@ -48,10 +48,10 @@
     "static/media/getFetch.cjs": "/JuniorTestTask-build/static/media/getFetch.40f37ddea2378391108f.cjs",
     "static/media/live.svg": "/JuniorTestTask-build/static/media/live.9bbacfce69a0e1a3289c.svg",
     "main.d4a3d673.css.map": "/JuniorTestTask-build/static/css/main.d4a3d673.css.map",
-    "main.9e9e4a13.js.map": "/JuniorTestTask-build/static/js/main.9e9e4a13.js.map"
+    "main.bbe12c59.js.map": "/JuniorTestTask-build/static/js/main.bbe12c59.js.map"
   },
   "entrypoints": [
     "static/css/main.d4a3d673.css",
-    "static/js/main.9e9e4a13.js"
+    "static/js/main.bbe12c59.js"
   ]
 }
