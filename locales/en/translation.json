@@ -100,5 +100,7 @@
 	"section-promo__more": "All materials",
 	"slide-promo__label": "Campaign",
 	"search__news-not-found": "Any news have been found. Try to change your search request",
-	"search__too-short-request": "Too short search request. Write down at least 3 letters"
+	"search__too-short-request": "Too short search request. Write down at least 3 letters",
+	"error-message__variant-1": "An error has happen when we tried to load data. Please, try again later",
+	"error-message__variant-2": "Unfortunately, you are seeing this error because we were unable to load the news for the slider. Please try reloading the page later"
 }
