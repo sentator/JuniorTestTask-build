@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/JuniorTestTask-build/static/css/main.89e988cc.css",
-    "main.js": "/JuniorTestTask-build/static/js/main.a74d0b85.js",
+    "main.js": "/JuniorTestTask-build/static/js/main.68ee7a3d.js",
     "static/media/usyk-bg.jpg": "/JuniorTestTask-build/static/media/usyk-bg.3b6c3e373eaeb0d7e56e.jpg",
     "static/media/01.jpg": "/JuniorTestTask-build/static/media/01.c91eef12df58332f963c.jpg",
+    "static/media/maintenance.gif": "/JuniorTestTask-build/static/media/maintenance.024098fdf8e36f7c0ab1.gif",
     "static/media/TTSevers-Regular.woff": "/JuniorTestTask-build/static/media/TTSevers-Regular.ab3f12a497a801cc5135.woff",
     "static/media/TTSevers-Medium.woff": "/JuniorTestTask-build/static/media/TTSevers-Medium.424005cb794601037277.woff",
     "static/media/TTSevers-DemiBold.woff": "/JuniorTestTask-build/static/media/TTSevers-DemiBold.05afcf43c8da9b0874e0.woff",
@@ -48,10 +49,10 @@
     "static/media/getFetch.cjs": "/JuniorTestTask-build/static/media/getFetch.40f37ddea2378391108f.cjs",
     "static/media/live.svg": "/JuniorTestTask-build/static/media/live.9bbacfce69a0e1a3289c.svg",
     "main.89e988cc.css.map": "/JuniorTestTask-build/static/css/main.89e988cc.css.map",
-    "main.a74d0b85.js.map": "/JuniorTestTask-build/static/js/main.a74d0b85.js.map"
+    "main.68ee7a3d.js.map": "/JuniorTestTask-build/static/js/main.68ee7a3d.js.map"
   },
   "entrypoints": [
     "static/css/main.89e988cc.css",
-    "static/js/main.a74d0b85.js"
+    "static/js/main.68ee7a3d.js"
   ]
 }
